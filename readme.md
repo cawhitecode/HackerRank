@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/RodneyShag">
+    <a href="https://www.hackerrank.com/cawhite_business">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br>HackerRank Solutions
@@ -28,19 +28,19 @@
 
 |        Subdomain        |                                                              Challenge                                                              | Points |     Solution     |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------------:|
-|          Warmup         | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                                                                      |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Plus%20Minus.cs)  |
-|          Warmup         | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                          |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Mini-Max%20Sum.cs)  |
-|          Warmup         | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                        |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Birthday%20Cake.cs)  |
+|          Warmup         | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                                                                      |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Plus-Minus.cs)  |
+|          Warmup         | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                          |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Mini-Max-Sum.cs)  |
+|          Warmup         | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                        |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Birthday-Cake.cs)  |
 |          Warmup         | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                                                                |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Staircase.cs)  |
-|          Warmup         | [A Very Big Game](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                       |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/A%20Very%20Big%20Game.cs)  |
-|          Warmup         | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)                                          |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Compare%20the%20Triplets.cs)  |
-|          Warmup         | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)                                                  |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Simple%20Array%20Sum.cs)  |
-|          Warmup         | [Diagonal Differences](https://www.hackerrank.com/challenges/diagonal-difference/problem)                                           |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Diagonal%20Differences.cs)  |
-|          Warmup         | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                                                    |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/time%20conversion.cs)  |
-|          Warmup         | [Compare the Triplets](https://www.hackerrank.com/challenges/apple-and-orange/problem)                                              |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Apple%20and%20Oranges.cs)  |
+|          Warmup         | [A Very Big Game](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                       |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/A-Very-Big-Game.cs)  |
+|          Warmup         | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)                                          |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Compare-the-Triplets.cs)  |
+|          Warmup         | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)                                                  |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Simple-Array-Sum.cs)  |
+|          Warmup         | [Diagonal Differences](https://www.hackerrank.com/challenges/diagonal-difference/problem)                                           |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Diagonal-Differences.cs)  |
+|          Warmup         | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                                                    |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/time-conversion.cs)  |
+|          Warmup         | [Compare the Triplets](https://www.hackerrank.com/challenges/apple-and-orange/problem)                                              |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Apple-and-Oranges.cs)  |
 |          Warmup         | [Simple Array Sum](https://www.hackerrank.com/challenges/kangaroo/problem)                                                          |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/kangaroo.cs)  |
 |          Warmup         | [Diagonal Differences](https://www.hackerrank.com/challenges/grading/problem)                                                       |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Grading.cs)  |
-|      Implementation     | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                               |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/picking%20numbers.cs)  |
+|      Implementation     | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                                    |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Picking-Numbers.cs)  |
 
 
 
