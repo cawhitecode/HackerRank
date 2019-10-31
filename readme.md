@@ -8,7 +8,7 @@
 * [30 Days of Code](#30-days-of-code)
 * [Data Structures](#data-structures)
 * [Algorithms](#algorithms)
-* [General Programming](#general-programming)
+* [Functional Programming](#funictional-programming)
 * [Implementation](#implementation)
 * [C#](#C^)
 * [Functional Programming](#functional-programming)
