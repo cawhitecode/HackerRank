@@ -19,8 +19,8 @@
 
 | Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution.C#]()                                                                                                                                                             |
-|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       |   30   | [Solution.C#]()                                                                                                                                                             |
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/30-days-of-code/Day%200%20-%20Hello%20World.cs)                                                                                                                                                             |
+|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       |   30   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/30-days-of-code/Day%201%20-%20Data%20Types.cs)                                                                                                                                                             |
 |  2  | [Operators](https://www.hackerrank.com/challenges/30-operators)                                         |   30   | [Solution.C#]()                                                                                                                                                             |
 
 
@@ -28,10 +28,10 @@
 
 |        Subdomain        |                                                              Challenge                                                              | Points |     Solution     |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------------:|
-|         Sorting         | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)                                                         |   10   | [Solution.C#]()  |
-|         Sorting         | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)                                                             |   15   | [Solution.C#]()  |
-|         Sorting         | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)            |   15   | [Solution.C#]()  |
-|         Sorting         | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)                                                                  |   20   | [Solution.C#]()  |
+|          Warmup         | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                                                                      |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Plusx%20Minus.cs)  |
+|          Warmup         | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                          |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Mini-Max%20Sum.cs)  |
+|          Warmup         | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                        |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Birthdayx%20Cake.cs)  |
+|          Warmup         | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                                                                |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Staircase.cs)  |
 
 
 # Data Structures
