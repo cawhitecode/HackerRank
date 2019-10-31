@@ -28,9 +28,9 @@
 
 |        Subdomain        |                                                              Challenge                                                              | Points |     Solution     |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------------:|
-|          Warmup         | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                                                                      |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Plusx%20Minus.cs)  |
+|          Warmup         | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                                                                      |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Plus%20Minus.cs)  |
 |          Warmup         | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                          |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Mini-Max%20Sum.cs)  |
-|          Warmup         | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                        |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Birthdayx%20Cake.cs)  |
+|          Warmup         | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                        |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Birthday%20Cake.cs)  |
 |          Warmup         | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                                                                |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Staircase.cs)  |
 
 
