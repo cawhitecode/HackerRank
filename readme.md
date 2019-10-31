@@ -40,7 +40,7 @@
 |          Warmup         | [Compare the Triplets](https://www.hackerrank.com/challenges/apple-and-orange/problem)                                              |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Apple%20and%20Oranges.cs)  |
 |          Warmup         | [Simple Array Sum](https://www.hackerrank.com/challenges/kangaroo/problem)                                                          |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/kangaroo.cs)  |
 |          Warmup         | [Diagonal Differences](https://www.hackerrank.com/challenges/grading/problem)                                                       |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Grading.cs)  |
-|      implementation     | [Diagonal Differences](https://www.hackerrank.com/challenges/picking-numbers/problem)                                               |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/picking%20numbers.cs)  |
+|      Implementation     | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                               |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/picking%20numbers.cs)  |
 
 
 
