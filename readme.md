@@ -13,7 +13,7 @@
 * [C#](#C^)
 * [Functional Programming](#functional-programming)
 * [Cracking the Coding Interview](#cracking-the-coding-interview)
-* [SQL](#sql)
+* [SQL](https://github.com/cawhitecode/HackerRank/blob/master/#sql)
 
 # 30 Days of Code
 
@@ -51,3 +51,21 @@
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------:|
 |      Arrays             | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                                      |   10   | [Solution.C#]()     |
 |      Arrays             | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)                                                                     |   15   | [Solution.C#]()     |
+
+# sql
+
+|    Subdomain            |                                                                        Challenge                                                    | Points |     Solution        |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------:|
+|      Basic Select       | [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                                         |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Japanese-Cities-Name.sql)    |
+|      Basic Select       | [Japanese Cities Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)                              |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Japense-Cities-Attributs.sql)    |
+|      Basic Select       | [Revising Select Query 1](https://www.hackerrank.com/revising-the-select-query-1/problem)                                           |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Revising-Select-Query1.sql)    |
+|      Basic Select       | [Revising Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)                                |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Revising-Select-Query2.sql)    |
+|      Basic Select       | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)                                                          |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Select-All.sql)    |
+|      Basic Select       | [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem)                                                          |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Select-by-ID.sql)    |
+|      Basic Select       | [Weather Observation Station 1](https://www.hackerrank.com/weather-observation-station-1/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Weather-Observation-Station1.sql)    |
+|      Basic Select       | [Weather Observation Station 2](https://www.hackerrank.com/weather-observation-station-2/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/)    |
+|      Basic Select       | [Weather Observation Station 3](https://www.hackerrank.com/weather-observation-station-3/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Weather-Observation-Station3.sql)    |
+|      Basic Select       | [Weather Observation Station 4](https://www.hackerrank.com/weather-observation-station-4/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Weather-Observation-Station4.sql)    |
+|      Basic Select       | [Weather Observation Station 5](https://www.hackerrank.com/weather-observation-station-5/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Weather-Observation-Station5.sql)    |
+|      Basic Select       | [Weather Observation Station 6](https://www.hackerrank.com/weather-observation-station-6/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/Weather-Observation-Station6.sql)    |
+
