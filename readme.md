@@ -45,7 +45,7 @@
 |      Implementation     | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                                                        |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Sock-Merchant.cs)    |
 |      Implementation     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                                                  |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Counting-Valleys.cs) |
 |      Implementation     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)                                        |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Jumping-On-The-Clouds.cs)    |
-|      Implementation     | [Repeated String](https://www.hackerrank.com/challenges-repeated-string/problem)                                                    |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Repeated-String.cs) |
+|      Implementation     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                                                    |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Repeated-String.cs) |
 
 
 
@@ -81,4 +81,4 @@
 |      Warm Up       | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                                                             |   10   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Sock-Merchant.cs)    |
 |      Warm Up       | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                                                       |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Counting-Valleys.cs) |
 |      Warm Up       | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)                                             |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Jumping-On-The-Clouds.cs)    |
-|      Warm Up       | [Repeated String](https://www.hackerrank.com/challenges-repeated-string/problem)                                                         |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Repeated-String.cs) |
+|      Warm Up       | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                                                         |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Repeated-String.cs) |
