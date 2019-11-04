@@ -8,7 +8,6 @@
 * [30 Days of Code](#30-days-of-code)
 * [Data Structures](#data-structures)
 * [Algorithms](#Algorithms)
-* [Implementation](#Implementation)
 * [Interview Prepartion Kit](#Interview-Prepartion-Kit)
 * [SQL](#SQL)
 
