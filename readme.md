@@ -7,15 +7,12 @@
 
 * [30 Days of Code](#30-days-of-code)
 * [Data Structures](#data-structures)
-* [Algorithms](#algorithms)
-* [Functional Programming](#funictional-programming)
-* [Implementation](#implementation)
-* [C#](#C^)
-* [Functional Programming](#functional-programming)
-* [Cracking the Coding Interview](#cracking-the-coding-interview)
-* [SQL](https://github.com/cawhitecode/HackerRank/blob/master/#sql)
+* [Algorithms](#Algorithms)
+* [Implementation](#Implementation)
+* [Interview Prepartion Kit](#Interview-Prepartion-Kit)
+* [SQL](#SQL)
 
-# 30 Days of Code
+# 30-Days-of-Code
 
 | Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -50,7 +47,7 @@
 
 
 
-# Data Structures
+# Data-Structures
 
 |    Subdomain            |                                                                        Challenge                                                    | Points |     Solution        |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------:|
@@ -74,7 +71,7 @@
 |      Basic Select       | [Weather Observation Station 5](https://www.hackerrank.com/weather-observation-station-5/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station5.sql)    |
 |      Basic Select       | [Weather Observation Station 6](https://www.hackerrank.com/weather-observation-station-6/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station6.sql)    |
 
-# Interview Prepartion Kit
+# Interview-Prepartion-Kit
 
 |    Subdomain            |                                                                        Challenge                                                    | Points |     Solution        |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------:|
