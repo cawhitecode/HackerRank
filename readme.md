@@ -52,6 +52,8 @@
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------:|
 |      Arrays             | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                                      |   10   | [Solution.C#]()     |
 |      Arrays             | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)                                                                     |   15   | [Solution.C#]()     |
+|      Arrays             | [2D Array - DS](https://www.hackerrank.com/challenges/array-left-rotation/problem)                                                  |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/data-structures/Left-Rotation.cs)     |
+
 
 # SQL
 
@@ -78,3 +80,5 @@
 |      Warm Up       | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                                                       |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Counting-Valleys.cs) |
 |      Warm Up       | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)                                             |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Jumping-On-The-Clouds.cs)    |
 |      Warm Up       | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                                                         |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Repeated-String.cs) |
+|       Arrays       | [Repeated String](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)                                                |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/interview-preparation-kit/Array-Left-Rotation.cs) |
+
