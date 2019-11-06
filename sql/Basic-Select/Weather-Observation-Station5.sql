@@ -9,7 +9,7 @@ from   station
 order by l asc, c asc)
 where rownum = 1;
 
-// mySQL
+// MySQL
 
 SELECT CITY, LENGTH(CITY) FROM STATION
 ORDER BY LENGTH(CITY), CITY
