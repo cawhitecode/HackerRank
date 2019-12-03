@@ -42,6 +42,12 @@
 |      Implementation     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                                                  |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Counting-Valleys.cs) |
 |      Implementation     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)                                        |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Jumping-On-The-Clouds.cs)    |
 |      Implementation     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                                                    |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Repeated-String.cs) |
+|      Implementation     | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)                                            |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Designer-PDF-Viewer.cs) |
+|      Implementation     | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)                          |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Beautiful-Days-At-The-Movies.cs) |
+|      Implementation     | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                                                    |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Angry-Professor.cs) |
+|      Implementation     | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                                          |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Utopian-Tree.cs) |
+|      Implementation     | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)                                              |   15   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/algorithms/Viral-Advertising.cs) |
+
 
 
 
@@ -52,7 +58,7 @@
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------:|
 |      Arrays             | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                                      |   10   | [Solution.C#]()     |
 |      Arrays             | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)                                                                     |   15   | [Solution.C#]()     |
-|      Arrays             | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)                                                  |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/data-structures/Left-Rotation.cs)     |
+|      Arrays             | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)                                            |   20   | [Solution.C#](https://github.com/cawhitecode/HackerRank/blob/master/data-structures/Left-Rotation.cs)     |
 
 
 # SQL
@@ -69,8 +75,21 @@
 |      Basic Select       | [Weather Observation Station 2](https://www.hackerrank.com/weather-observation-station-2/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/)    |
 |      Basic Select       | [Weather Observation Station 3](https://www.hackerrank.com/weather-observation-station-3/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station3.sql)    |
 |      Basic Select       | [Weather Observation Station 4](https://www.hackerrank.com/weather-observation-station-4/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station4.sql)    |
-|      Basic Select       | [Weather Observation Station 5](https://www.hackerrank.com/weather-observation-station-5/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station5.sql)    |
+|      Basic Select       | [Weather Observation Station 5](https://www.hackerrank.com/weather-observation-station-5/problem)                                   |   30   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station5.sql)    |
 |      Basic Select       | [Weather Observation Station 6](https://www.hackerrank.com/weather-observation-station-6/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station6.sql)    |
+|      Basic Select       | [Weather Observation Station 7](https://www.hackerrank.com/weather-observation-station-7/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station7.sql)    |
+|      Basic Select       | [Weather Observation Station 8](https://www.hackerrank.com/weather-observation-station-8/problem)                                   |   15   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station8.sql)    |
+|      Basic Select       | [Weather Observation Station 9](https://www.hackerrank.com/weather-observation-station-9/problem)                                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station9.sql)    |
+|      Basic Select       | [Weather Observation Station 10](https://www.hackerrank.com/weather-observation-station-10/problem)                                 |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station10.sql)    |
+|      Basic Select       | [Weather Observation Station 11](https://www.hackerrank.com/weather-observation-station-11/problem)                                 |   15   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station11.sql)    |
+|      Basic Select       | [Weather Observation Station 12](https://www.hackerrank.com/weather-observation-station-12/problem)                                 |   15   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Weather-Observation-Station12.sql)    |
+|      Basic Select       | [Type of Triangle](https://www.hackerrank.com/what-type-of-triangle/problem)                                                        |   20   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Type-Of-Triangle.sql)    |
+|      Basic Select       | [More Than 75 Marks](https://www.hackerrank.com/more-than-75-marks/problem)                                                         |   15   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/More-Than-75-Marks.sql)    |
+|      Basic Select       | [Employee Salaries](https://www.hackerrank.com/salary-of-employees/problem)                                                         |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Salary-of-Employees.sql)    |
+|      Basic Select       | [Employee Names](https://www.hackerrank.com/name-of-employees/problem)                                                              |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Basic-Select/Name-of-Employees.sql)    |
+|      Aggregation        | [Revising Aggregations - Averages](https://www.hackerrank.com/revising-aggregations-the-average-function/problem)                   |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Aggregation/Revising-Aggregation-Averages.sql)    |
+|      Aggregation        | [Average Population](https://www.hackerrank.com/average-population/problem)                                                          |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sqlAggregation/average-population/problem.sql)    |
+|    Advanced Select      | [The PADS](https://www.hackerrank.com/the-pads/problem)                                                              |   10   | [Solution.SQL](https://github.com/cawhitecode/HackerRank/blob/master/sql/Advanced-Select/The-Pads.sql)    |
 
 # Interview-Prepartion-Kit
 
